@@ -1,0 +1,25 @@
+body{
+  background-color: #eee2c0;
+  
+}
+
+
+.flag{
+  display: inline-block;
+  width: 20%;
+  margin: 6%;
+  max-height: 200px;
+  font-size: 30px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  color: #737373;
+ 
+}
+
+h1{
+text-align: center;
+font-style: italic;
+font-size: 50px;
+color: #742727;
+}
